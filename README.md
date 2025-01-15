@@ -1,7 +1,7 @@
 # ASSEMBLY LANGUAGE BASED CISC COMPUTER SIMULATOR
 ## CISC Simulator
 A CISC Simulator was developed using JAVA (JDK version 19).
-Refer to Design_Document.pdf for more information.
+Refer to DesignDocument.pdf for more information.
 
 ## Preparation Instructions
 ### Prepare Environment for execution
