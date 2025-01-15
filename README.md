@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# AssemblyLanguageBased_ComputerSimulator
-=======
-# CISCComputerSimulator
-## CISC Simulator - Team 1
+# ASSEMBLY LANGUAGE BASED CISC COMPUTER SIMULATOR
+## CISC Simulator
 A CISC Simulator was developed using JAVA (JDK version 19).
 Refer to Design_Document.pdf for more information.
 
@@ -57,4 +54,3 @@ Once the “Run” button is clicked, the printer will first print the content o
 Whenever the Input LED glows, enter one character in the keyboard, and wait for the Input LED to glow to enter the next character or to press enter (signaling the end of that word input).
 The corresponding word will be printed on the printer as well.
 The program will then go on the check if the word is present or not in the paragraph, if it exists it will print “Word found!” and print the Line # and Word # where it was found, or else it will print “Word not found”. 
->>>>>>> master
